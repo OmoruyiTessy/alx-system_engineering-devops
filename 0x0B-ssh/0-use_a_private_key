@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Connect to server using private key and user ubuntu
+ssh 248f996abdd5@248f996abdd5.31af7bf2.alx-cod.online
